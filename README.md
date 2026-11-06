@@ -285,16 +285,6 @@ Contributions, suggestions, and improvements are welcome!
 
 ---
 
-## 📄 License
-
-This project uses a custom-trained YOLO model.
-
-**Important:** Ultralytics licensing and your project's licensing are separate considerations. Ultralytics offers AGPL-3.0 and Enterprise licensing options. Check the applicable license terms for your use case before distributing the application.
-
-If this repository is distributed under AGPL-3.0, include the appropriate `LICENSE` file and comply with its requirements.
-
----
-
 ## 🔗 Resources & References
 
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
