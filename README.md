@@ -74,15 +74,6 @@ Follow these simple steps to start monitoring:
 5. **Stop Monitoring** — Click the Stop Monitoring button.
 6. **View Output** — Find the processed video saved as `output_sleep_monitor.mp4`.
 
-### 📊 System Status
-
-| Status | Description |
-|---|---|
-| 🟢 Ready | Application is initialized |
-| 🟡 Loading | YOLO model is loading |
-| 🔴 Monitoring | Video detection is running |
-| ⚪ Stopped | Monitoring has ended |
-
 ---
 
 ## 🧠 Model Information
