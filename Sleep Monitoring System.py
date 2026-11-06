@@ -15,7 +15,7 @@ OUTPUT_FILE = "output_sleep_monitor.mp4"
 class SleepMonitorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Workplace Sleep Monitoring System")
+        self.root.title("ZaBir | Sleep Monitoring System")
         self.root.geometry("1000x700")
         self.root.protocol("WM_DELETE_WINDOW", self.on_close)
 
