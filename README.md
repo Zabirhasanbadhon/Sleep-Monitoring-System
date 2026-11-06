@@ -121,24 +121,6 @@ The output includes detected objects, bounding boxes, and class labels.
 
 ---
 
-## 📸 Application Screenshots
-
-Add your application screenshots to the `screenshots/` folder.
-
-### 1. Application Interface
-
-![Sleep Monitoring GUI](screenshots/gui_ready.png)
-
-### 2. Live Sleep Detection
-
-![Live Monitoring](screenshots/gui_monitoring.png)
-
-### 3. Detection Output
-
-![Detection Output](screenshots/output_sample.png)
-
----
-
 ## 🐛 Troubleshooting
 
 ### ❌ Supervision BoundingBoxAnnotator Error
